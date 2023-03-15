@@ -1,7 +1,9 @@
 # Cracked Minecraft Education Edition Multiplayer
 
-This repository includes modified education Win32 EXE That allows lan multiplayer without an account
+This repository contains:
+- Modified Education Edition files that specifically allow for LAN multiplayer, without having to pay, and/or create a MS account.
+- Modified files to play without an MS account
 
-To install, just copy the .exe to your minecraft route, by default is "C:\Program Files (x86)\Microsoft Studios\Minecraft Education Edition"
+To install, just copy the .EXE to wherever MCEE is supposed to be located. Usually, it is "C:\Program Files (x86)\Microsoft Studios\Minecraft Education Edition"
 
-[Builds](https://archive.org/details/minecraft-education-edition-win32)
+For previous MCEE builds, use the link provided: [Builds](https://archive.org/details/minecraft-education-edition-win32)
